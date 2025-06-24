@@ -117,7 +117,8 @@ Pre-built standalone executables are now available. No need to install Python or
 - ✅ **Linux**: standalone binary
 - ⏳ **macOS**: coming soon
 
- You can find the executables here:
+ You can find the executables here: ([**Releases**](https://github.com/MrCrypPrivacy/qr_generator/releases))
+
 - [Download for Windows](https://github.com/MrCrypPrivacy/qr_generator/releases/download/v1.0.0/QRGenerator-windows.exe)
 - [Download for Linux](https://github.com/MrCrypPrivacy/qr_generator/releases/download/v1.0.0/QrGenerator.linux)
 
