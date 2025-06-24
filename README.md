@@ -118,8 +118,8 @@ Pre-built standalone executables are now available. No need to install Python or
 - ⏳ **macOS**: coming soon
 
  You can find the executables here:
-- [Download for Windows](./releases/windows/QRGenerator.exe)
-- [Download for Linux](./releases/linux/QrGenerator)
+- [Download for Windows](https://github.com/MrCrypPrivacy/qr_generator/releases/download/v1.0.0/QRGenerator-windows.exe)
+- [Download for Linux](https://github.com/MrCrypPrivacy/qr_generator/releases/download/v1.0.0/QrGenerator.linux)
 
 🔧 **Coming soon:** Easy-to-use installers for **Windows**, **Linux**, and **macOS**.
 
